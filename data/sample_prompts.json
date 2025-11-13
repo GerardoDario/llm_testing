@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "What is the capital of France?",
+    "expected": "Paris",
+    "category": "geography"
+  },
+  {
+    "id": 2,
+    "text": "What is 2 + 2?",
+    "expected": "4",
+    "category": "math"
+  },
+  {
+    "id": 3,
+    "text": "Who wrote 'Romeo and Juliet'?",
+    "expected": "Shakespeare",
+    "category": "literature"
+  },
+  {
+    "id": 4,
+    "text": "What is the largest planet in our solar system?",
+    "expected": "Jupiter",
+    "category": "science"
+  },
+  {
+    "id": 5,
+    "text": "What programming language is known for its use in data science?",
+    "expected": "Python",
+    "category": "technology"
+  }
+]
