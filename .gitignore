@@ -1,0 +1,33 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# --- Poetry / Virtual envs ---
+.venv/
+poetry.lock
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+notebooks/
+
+# --- VSCode ---
+.vscode/
+.vscode-remote-containers/
+.vscode-server/
+
+# --- OS files ---
+.DS_Store
+
+# --- Build & dist ---
+build/
+dist/
+*.egg-info/
+
+# --- Logs ---
+*.log
+
+# --- Your project paths ---
+.env
